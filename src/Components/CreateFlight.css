@@ -1,0 +1,24 @@
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+.form-group .MuiFormControl-root{
+    margin: 10px;
+}
+
+.hide input{
+    color: transparent; 
+}
+.hide input:focus{
+    color: initial; 
+}
+.time input{
+    width: 10em;
+}
+.button{ 
+	padding-left: 10px; 
+	padding-right: 20px; 
+	padding-top: 30px; 
+	padding-bottom: 10px; 
+} 

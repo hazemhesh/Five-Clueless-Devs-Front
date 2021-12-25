@@ -1,0 +1,24 @@
+.register-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.register-box-container{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.register-box-container .MuiFormControl-root {
+    margin-bottom: 10px;
+}
+
+.stepper{
+    overflow-x: clip;
+}

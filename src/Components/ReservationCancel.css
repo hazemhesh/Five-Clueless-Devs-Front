@@ -1,0 +1,28 @@
+.updateButton {
+    font-size:15px;
+    font-family:Arial;
+    border-width:1px;
+    color:#fff !important;
+    border-color:#599bb3;
+    font-weight:bold !important;
+    border-radius:8px !important;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(#599bb3, #408c99);
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  .updateButton:hover {
+    background: linear-gradient(#408c99, #599bb3);
+  }
+  .buttonUnder {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 20px;
+    width: 700px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+ 

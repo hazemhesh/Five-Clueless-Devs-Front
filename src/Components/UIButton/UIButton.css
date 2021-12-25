@@ -1,0 +1,46 @@
+.buttonClassUI {
+    font-size:15px;
+    font-family:Arial;
+    min-width:90px;
+    min-height:35px;
+    border-width:1px;
+    color:#fff;
+    font-weight:bold;
+    border-radius:8px !important;
+    
+    /* border-color:#599bb3;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(#599bb3, #408c99);
+    */
+    border-color:#599bb3;
+    box-shadow: 0px 10px 14px -7px rgba(5, 27, 31, 1);
+    text-shadow: 0px 1px 0px rgba(35, 98, 121, 1);
+    background:linear-gradient(rgba(83, 181, 240, 1), rgba(33, 81, 109, 1));
+   
+    padding: 3px 7px !important;
+    /* margin-bottom: 30px; */
+    cursor: pointer;
+  }
+
+  .btn-red{
+    border-color:#b35959;
+    box-shadow: 0px 10px 14px -7px #732727;
+    text-shadow: 0px 1px 0px #8a3d3d;
+    background:linear-gradient(#bd4d4d, #be3131);
+  }
+
+  .btn-green{
+    border-color:#59b368;
+    box-shadow: 0px 10px 14px -7px #27733a;
+    text-shadow: 0px 1px 0px #3d8a41;
+    background:linear-gradient(#59b389, #409947);
+  }
+
+  
+  .btn-blue{
+    border-color:#599bb3;
+    box-shadow: 0px 10px 14px -7px rgba(5, 27, 31, 1);
+    text-shadow: 0px 1px 0px rgba(35, 98, 121, 1);
+    background:linear-gradient(rgba(83, 181, 240, 1), rgba(33, 81, 109, 1));
+  }

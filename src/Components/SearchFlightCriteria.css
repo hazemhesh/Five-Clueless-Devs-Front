@@ -1,0 +1,19 @@
+.criteria-form-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.criteria-form-group .MuiFormControl-root{
+    margin: 5px;
+}
+
+.criteria-hide input{
+    color: transparent; 
+}
+.criteria-hide input:focus{
+    color: initial; 
+}
+.criteria-time input{
+    width: 10em;
+}
+

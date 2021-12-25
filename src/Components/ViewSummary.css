@@ -1,0 +1,7 @@
+.view-summary-card{
+    border: 1px solid darkslategray;
+    border-radius: 10px;
+    margin: 0 25px;
+    padding: 15px 35px;
+    background-color: white;
+}

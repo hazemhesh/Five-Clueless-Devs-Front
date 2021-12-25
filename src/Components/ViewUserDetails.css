@@ -1,0 +1,25 @@
+.card-container-user{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+    border: 1px solid darkslategray;
+    border-radius: 10px;
+    margin: 15px 10px;
+    padding: 15px 35px;
+    cursor: pointer;
+}
+
+.view-user-card{
+    border: 1px solid darkslategray;
+    border-radius: 10px;
+    margin: 15 15px;
+    padding: 15px 15px;
+    background-color: white;
+}
